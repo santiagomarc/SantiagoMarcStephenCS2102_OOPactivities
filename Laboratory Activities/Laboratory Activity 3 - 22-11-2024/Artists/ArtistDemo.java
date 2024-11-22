@@ -4,7 +4,7 @@ public class ArtistDemo {
         artist.displayInfo();
         System.out.println();
 
-        Singer singer = new Singer("Ariana Grande", "American", 31, "Music", Genre.POP);
+        Singer singer = new Singer("Ariana Grande", "American", 31, "Music", Genre.RNB);
         singer.displayInfo();
         System.out.println();
 
