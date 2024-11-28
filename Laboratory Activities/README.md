@@ -8,7 +8,7 @@ Welcome to the repository for **Laboratory Activities** in CS211 OOP! This is a 
 
 ## 📝 Checklist of Laboratory Activities
 
-- [x] **Laboratory Activity 1 - 06-09-2024**  
+- [ ] **Laboratory Activity 1 - 06-09-2024**  
   (_Uploaded 2 months ago_)  
   *This lab activity is about basic input/output programs.*
 
