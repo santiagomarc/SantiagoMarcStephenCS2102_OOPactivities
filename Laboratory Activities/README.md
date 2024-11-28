@@ -16,7 +16,7 @@ Welcome to the repository for **Laboratory Activities** in CS211 OOP! This is a 
   (_Uploaded last month_)  
   *In this lab activity, we created programs using functions and array to compute the average of an array and create a multiplication table.*
 
-- [✅] **Laboratory Activity 3 - 22-11-2024**  
+- ✅ **Laboratory Activity 3 - 22-11-2024**  
   (_Uploaded last week_)  
   *This activity is about practicing the fundamental OOP principles, specifically the Encapsulation, Inheritance, and Polymorphism.*
 
@@ -26,4 +26,4 @@ Welcome to the repository for **Laboratory Activities** in CS211 OOP! This is a 
 
 ### 🙌 Acknowledgments
 Big thanks to:
-- **[Ma'am Fatima Marie Agdon]** for guiding us throughout this course. ♡
+- **Ma'am Fatima Marie Agdon** for guiding us throughout this course. ♡
