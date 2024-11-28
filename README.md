@@ -1,5 +1,5 @@
 
-# Laboratory Activities 📚
+# OOP Activities 📚
 
 Welcome to my repository for **OOP Activities** in CS211! This is a collection of all the exercises we've completed throughout the semester. Below is the checklist of all the lab activities along with their completion status. ✅
 
